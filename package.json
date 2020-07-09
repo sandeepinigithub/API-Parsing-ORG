@@ -1,0 +1,16 @@
+{
+  "name": "api-parsing-org",
+  "version": "1.0.0",
+  "description": "API Hitting and parsing and organized data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "parse-json": "^5.0.0",
+    "request": "^2.88.0"
+  }
+}
